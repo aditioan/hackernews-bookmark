@@ -1,0 +1,41 @@
+{
+  "author": {
+    "name": "Aditio Agung Nugroho",
+    "email": "aditioan.uny@gmail.com"
+  },
+  "name": "hackernews-bookmark",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.23",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-moment": "^0.8.3",
+    "react-redux": "^5.1.0",
+    "react-scripts": "2.1.0",
+    "redux": "^4.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.6.0",
+    "enzyme-adapter-react-16": "^1.5.0",
+    "react-addons-test-utils": "^15.6.2",
+    "react-test-renderer": "^16.5.2",
+    "redux-devtools": "^3.4.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
